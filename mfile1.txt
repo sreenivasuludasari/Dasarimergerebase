@@ -1,1 +1,2 @@
 the new file
+add new line
