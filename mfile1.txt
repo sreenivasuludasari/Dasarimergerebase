@@ -1,2 +1,4 @@
 the new file
 add new line
+latest line
+
